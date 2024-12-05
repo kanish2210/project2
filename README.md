@@ -1,4 +1,4 @@
-# project2
+# real time calculator designing using python GUI
 calculator
 
 import tkinter
