@@ -1,4 +1,4 @@
-# real time calculator designing using python GUI
+# Calculator using Tkinter-python GUI
 calculator
 
 import tkinter
